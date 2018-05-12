@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39309
     wikipedia: http://en.wikipedia.org/wiki/Abel_Chapman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41593#Unexplored-Spain
 gutenberg_issued: '2012-12-10'
 gutenberg_type: Text
 identifiers:
