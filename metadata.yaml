@@ -1,0 +1,45 @@
+_repo: Unexplored-Spain_41593
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Caldwell, E. (Edmund G.)
+    alias: Caldwell, Edmund G.
+    gutenberg_agent_id: '38556'
+    url: http://www.gutenberg.org/2009/agents/38556
+  - agent_name: Crawhall, Joseph
+    birthdate: 1821
+    deathdate: 1896
+    gutenberg_agent_id: '41251'
+    url: http://www.gutenberg.org/2009/agents/41251
+covers:
+- cover_type: archival
+  image_path: 41593-h/images/cover_lg.jpg
+creator:
+  authors:
+  - agent_name: Buck, Walter John
+    alias: Buck, Walter J.
+    gutenberg_agent_id: '39310'
+    url: http://www.gutenberg.org/2009/agents/39310
+  - agent_name: Chapman, Abel
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '39309'
+    url: http://www.gutenberg.org/2009/agents/39309
+    wikipedia: http://en.wikipedia.org/wiki/Abel_Chapman
+description: ''
+gutenberg_issued: '2012-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcsh 'Natural history -- Spain'
+- !lcc 'SK'
+- !lcsh 'Hunting -- Spain'
+- !lcc 'DP'
+title: Unexplored Spain
+url: http://www.gutenberg.org/ebooks/41593
